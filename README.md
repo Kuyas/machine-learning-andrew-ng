@@ -1,5 +1,5 @@
 ## Machine Learning MOOC
-The exercise solutions for the Machine Learning course on Coursera [link]https://www.coursera.org/learn/machine-learning
+The exercise solutions for the Machine Learning course on Coursera https://www.coursera.org/learn/machine-learning
 by Andrew NG
 
 #### Completed
